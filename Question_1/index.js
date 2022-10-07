@@ -8,10 +8,19 @@ const lowerCaseWords = array => {
     })
 }
 
-lowerCaseWords(["PIZZA", 10, true, 25, false, "Wings"])
+lowerCaseWords([ 10, true, 25, false])
     .then(result => {
         console.log(result)
     })
     .catch(err => {
         console.log(err)
     })
+
+    lowerCaseWords([ "Gnc",10, true, 25, false])
+    .then(result => {
+        console.log(result)
+    })
+    .catch(err => {
+        console.log(err)
+    })
+

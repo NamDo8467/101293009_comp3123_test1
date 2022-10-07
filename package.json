@@ -1,0 +1,20 @@
+{
+  "name": "bb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "q1": "\"node  Question_1/index.js\"",
+    "q2": "node Question_2/callback.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamDo8467/101293009_comp3123_test1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamDo8467/101293009_comp3123_test1/issues"
+  },
+  "homepage": "https://github.com/NamDo8467/101293009_comp3123_test1#readme"
+}
